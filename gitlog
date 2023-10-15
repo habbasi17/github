@@ -1,1 +1,61 @@
- this is for new test branch
+commit 85a7df8d15efa9559772346671f12fd895c3132a
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 16:32:25 2023 -0700
+
+    Add first test for branch test
+
+commit b7f40543d6daf00c40ae818f044293bf0668f892
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 15:27:53 2023 -0700
+
+    Add .gitignore
+
+commit 2e38e1e33541c972aedd57e6102f68cfc1bdc604
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 15:24:37 2023 -0700
+
+    delete .DS_Store
+
+commit 277422ff1f812d277c76918bf325f1ab6a6068a4
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 13:41:48 2023 -0700
+
+    Add python folder
+
+commit cced674f5296cdfd1398475e00db3e3583472983
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 13:38:21 2023 -0700
+
+    restoring gitlog
+
+commit 7098083c87f6f77016e42768d66718db9707a5c1
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 13:25:58 2023 -0700
+
+    Delete gitlog
+
+commit 917d5dfcaa23159fd0db0b7de42f48018ba41c43
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Thu Oct 12 13:10:32 2023 -0700
+
+    Modified gitlog
+
+commit 0642a7c4b50ce40e1bca10cd46e1cf3b30dcad5c
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Wed Oct 11 16:42:09 2023 -0700
+
+    Testing
+    
+    this just to test git add .
+
+commit 62cbe49751bb5614caf8025680a3df1b5536a14c
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Wed Oct 11 16:20:28 2023 -0700
+
+    Commit using -a option
+
+commit f4c1d3f3f6ab2d66e49ee09ceb9a91e51801b1c3
+Author: Hooman <hooman.abasi@gmail.com>
+Date:   Wed Oct 11 16:08:24 2023 -0700
+
+    Add todo list
